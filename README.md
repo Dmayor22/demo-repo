@@ -2,6 +2,4 @@
 
 
 some desciption
-
-
-some text
+some texts
